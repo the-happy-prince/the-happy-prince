@@ -1,4 +1,4 @@
-- 👋 Hare Krishna, I’m @the-happy-prince
+- 👋 Hare Kṛṣṇa, I’m @the-happy-prince
 - 👀 I’m interested in Web & App development
 - 🌱 I’m currently working on Java
 - 📫 Contact: princeraj@tuta.io
